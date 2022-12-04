@@ -1,0 +1,4 @@
+#Sun Dec 04 12:21:25 BRT 2022
+base.0=C\:\\Users\\Desktop\\Documents\\Visual Studio Code\\Projects\\startup_namer\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
